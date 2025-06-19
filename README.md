@@ -1,3 +1,4 @@
+![App Screenshot](https://github.com/adavidoaiei/node.js-web-app/blob/main/printscreen.png)
 # Node.js SQLite API with Web Interface
 
 A full-stack web application built with Node.js, Express, and SQLite, featuring both a RESTful API and a modern web interface for user management. This application provides CRUD operations through both API endpoints and a user-friendly web interface.
